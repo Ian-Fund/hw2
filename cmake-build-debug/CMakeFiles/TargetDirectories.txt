@@ -1,0 +1,3 @@
+/home/mathbot/CLionProjects/cosc2430/hw2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mathbot/CLionProjects/cosc2430/hw2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mathbot/CLionProjects/cosc2430/hw2/cmake-build-debug/CMakeFiles/hw2.dir
